@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{3ECD3EFF-F4BA-4A54-B4A7-AA9651D54D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chalkboard", "Chalkboard\Chalkboard.csproj", "{4956FFBC-052E-4699-8687-39B3603CB6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumansVsZombies-Backend", "HumansVsZombies-Backend\HumansVsZombies-Backend.csproj", "{8B20BC91-1D7C-4B32-A1CA-338E789A9704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{7745C8E2-8201-49A6-B68F-9B98AD974CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECD3EFF-F4BA-4A54-B4A7-AA9651D54D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD3EFF-F4BA-4A54-B4A7-AA9651D54D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD3EFF-F4BA-4A54-B4A7-AA9651D54D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD3EFF-F4BA-4A54-B4A7-AA9651D54D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4956FFBC-052E-4699-8687-39B3603CB6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956FFBC-052E-4699-8687-39B3603CB6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4956FFBC-052E-4699-8687-39B3603CB6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956FFBC-052E-4699-8687-39B3603CB6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B20BC91-1D7C-4B32-A1CA-338E789A9704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B20BC91-1D7C-4B32-A1CA-338E789A9704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B20BC91-1D7C-4B32-A1CA-338E789A9704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B20BC91-1D7C-4B32-A1CA-338E789A9704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7745C8E2-8201-49A6-B68F-9B98AD974CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7745C8E2-8201-49A6-B68F-9B98AD974CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7745C8E2-8201-49A6-B68F-9B98AD974CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7745C8E2-8201-49A6-B68F-9B98AD974CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
